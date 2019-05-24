@@ -35,7 +35,6 @@ class Controller:
                     MyMessageDialog(self.mainWindow, e.message)
                     return
         
-        print(weighted_random)
         winner = random.choice(weighted_random)
         MyMessageDialog(self.mainWindow, "The winner is: %s!" % winner, caption="Winrar!")
 
