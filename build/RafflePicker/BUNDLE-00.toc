@@ -1,0 +1,3 @@
+([('RafflePicker',
+   '/Users/andrewc1/PythonProjects/RafflePicker/dist/RafflePicker',
+   'EXECUTABLE')],)
